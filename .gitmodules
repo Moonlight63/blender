@@ -1,7 +1,7 @@
 [submodule "release/scripts/addons"]
 	path = release/scripts/addons
 	url = ../blender-addons.git
-	branch = master
+	branch = pyclone-v2.91
 	ignore = all
 [submodule "release/scripts/addons_contrib"]
 	path = release/scripts/addons_contrib
